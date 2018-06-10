@@ -1,0 +1,17 @@
+{
+  "ghost": {
+    "url": "http://localhost:2368",
+    "auth": {
+      "username": "username",
+      "password": "secret"
+    }
+  },
+  "mail": {
+    "host": "mail.server.de",
+    "port": 587,
+    "user": "username",
+    "password": "secret",
+    "from-email": "Sender <sender@e.mail>",
+    "signature": "Liebe Grüße"
+  }
+}
